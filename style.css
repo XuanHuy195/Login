@@ -34,7 +34,7 @@ a {
     background-color:white;
 }
 .itext:focus, .btn:focus {
-    outline: none;
+   outline: 0;
 }
 .btn {
     background-color: rgb(63, 77, 232);
