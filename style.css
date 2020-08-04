@@ -13,6 +13,7 @@ a {
     flex-direction: column;
     margin: 5px 400px;
     background-color:rgba(233, 235, 240, 0.5);
+    flex-wrap: wrap;
 }
 .title {
     font-family: sans-serif;
@@ -40,9 +41,9 @@ a {
     opacity: 0.9;
 }
 .links {
-    padding-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 10px;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
 }
 
